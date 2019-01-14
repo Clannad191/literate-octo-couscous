@@ -1,0 +1,377 @@
+    1  ifconfig
+    2  sudo apt install net-tools
+    3  sudo apt update
+    4  ifconfig
+    5  sudo apt install net-tools
+    6  ifconfig
+    7  $ sudo apt install ssh
+    8  sudo apt install ssh
+    9  sudo apt install vim
+   10  sudo apt install gcc g++
+   11  sudo apt install curl
+   12  curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+   13  curl -fLo ~/.vim/autoload/plug.vim --create-dirs \https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+   14  sudo apt-get install fonts-powerline
+   15  sudo apt install build-essential cmake python3-dev
+   16  cd ~/.vim/plugged/YouCompleteMe
+   17  cd ~/.vim
+   18  cd plugged
+   19  cd plugged/
+   20  ll
+   21  cd..
+   22  cd ..
+   23  sudo apt install build-essential cmake python3-dev
+   24  cd ~/.vim/plugged/YouCompleteMe
+   25  sudo apt install git
+   26  cd ~/.vim/plugged/YouCompleteMe
+   27  gcc
+   28  g++
+   29  vim
+   30  ifconfig
+   31  ping www.baidu.com
+   32  ifconfig
+   33  ping www.baidu.com
+   34  ifconfig
+   35  ping www.baidu.com
+   36  gcc
+   37  g++
+   38  vim
+   39  useradd user1
+   40  su root
+   41  userdel user1
+   42  su root
+   43  t
+   44  su root
+   45  useradd -m test -s /bin/bash
+   46  useradd user1
+   47  useradd -m test -s /bin/bash
+   48  sudo passwd user1
+   49  su root
+   50  su wyz
+   51  su root
+   52  su -root
+   53  su root
+   54  sudo password root
+   55  sudo passwd root
+   56  su root
+   57  sudu
+   58  su root
+   59  23456
+   60  exit
+   61  cd ~
+   62  cd /home
+   63  ls
+   64  touch test.txt
+   65  cd ~
+   66  ls
+   67  ll
+   68  cd /
+   69  ll
+   70  cd ~
+   71  touch test.txt
+   72  ls
+   73  echo hello
+   74  echo world > test.txt
+   75  vim test.txt
+   76  echo hello >test.txt
+   77  vim test
+   78  rm test
+   79  ls
+   80  vim test.txt
+   81  echo world >> test.txt
+   82  vim test.txt
+   83  cat test.txt 
+   84  rm test.txt 
+   85  ls
+   86  ls
+   87  ll
+   88  cd ..
+   89  pwd
+   90  su
+   91  su root
+   92  history
+   93  ls
+   94  vim test.txt
+   95  rm t.tar.gz
+   96  tar -cf t.tar ./test.txt
+   97  ls
+   98  tar -czf t.tar.gz ./test.txt 
+   99  ls
+  100  cd tt
+  101  ls
+  102  rm test.txt
+  103  cd ..
+  104  mv test.txt ./tt
+  105  cd tt
+  106  ls
+  107  cd ..
+  108  ls
+  109  tar -xf t.tar
+  110  ls
+  111  tail test.txt 
+  112  rm test.txt 
+  113  tar -xf t.tar.gz 
+  114  ls
+  115  tail test.txt 
+  116  cd tt
+  117  ls
+  118  cd ..
+  119  rm t.tar
+  120  rm t.tar.gz
+  121  rm -r tt
+  122  ls
+  123  gcc hello.c -o hello
+  124  ls
+  125  hello
+  126  ./hello
+  127  ll
+  128  chmod o-r test.txt 
+  129  chmod o+rw test.txt 
+  130  ll
+  131  history
+  132  ls
+  133  mkdir -p ./tt/tt1/tt2
+  134  cd tt
+  135  ls
+  136  cp tt1 ../
+  137  cp -r tt1 ../
+  138  cd ..
+  139  ls
+  140  rm -r tt1
+  141  ls
+  142  cd tt
+  143  ls
+  144  cd ..
+  145  cp test.txt ./tt
+  146  cd tt
+  147  ls
+  148  cat test.txt
+  149  cd ..
+  150  ls
+  151  cd tt
+  152  rm test.txt 
+  153  cd ..
+  154  mv test.txt ./tt
+  155  cd tt
+  156  ls
+  157  cd ..
+  158  ls
+  159  cd ..
+  160  cd ~
+  161  cd tt
+  162  ls
+  163  cp test.txt ../
+  164  cd ..
+  165  ls
+  166  tar -cf t.tar test.txt 
+  167  ls
+  168  tar -czf t.tar.gz test.txt 
+  169  ls
+  170  cd tt
+  171  ls
+  172  cd ..
+  173  rm test.txt 
+  174  tar -xf t.tar
+  175  ls
+  176  tail test.txt 
+  177  rm test.txt 
+  178  tar -xf t.tar.gz
+  179  ls
+  180  tail test.txt 
+  181  rm test.txt 
+  182  ls
+  183  cd tt
+  184  cp test.txt ../
+  185  cd ..
+  186  ls
+  187  tail test.txt 
+  188  history
+  189  more test.txt 
+  190  fg
+  191  head test.txt 
+  192  ls
+  193  vim test.txt
+  194  history
+  195  cat history > 20190102.txt
+  196  tar -czvf 20190102_王翊臻.tar.gz history
+  197  history
+  198  cat history > 20190102.txt
+  199  history > 20190102.txt
+    1  ifconfig
+    2  sudo apt install net-tools
+    3  sudo apt update
+    4  ifconfig
+    5  sudo apt install net-tools
+    6  ifconfig
+    7  $ sudo apt install ssh
+    8  sudo apt install ssh
+    9  sudo apt install vim
+   10  sudo apt install gcc g++
+   11  sudo apt install curl
+   12  curl -fLo ~/.vim/autoload/plug.vim --create-dirs     https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+   13  curl -fLo ~/.vim/autoload/plug.vim --create-dirs \https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+   14  sudo apt-get install fonts-powerline
+   15  sudo apt install build-essential cmake python3-dev
+   16  cd ~/.vim/plugged/YouCompleteMe
+   17  cd ~/.vim
+   18  cd plugged
+   19  cd plugged/
+   20  ll
+   21  cd..
+   22  cd ..
+   23  sudo apt install build-essential cmake python3-dev
+   24  cd ~/.vim/plugged/YouCompleteMe
+   25  sudo apt install git
+   26  cd ~/.vim/plugged/YouCompleteMe
+   27  gcc
+   28  g++
+   29  vim
+   30  ifconfig
+   31  ping www.baidu.com
+   32  ifconfig
+   33  ping www.baidu.com
+   34  ifconfig
+   35  ping www.baidu.com
+   36  gcc
+   37  g++
+   38  vim
+   39  useradd user1
+   40  su root
+   41  userdel user1
+   42  su root
+   43  t
+   44  su root
+   45  useradd -m test -s /bin/bash
+   46  useradd user1
+   47  useradd -m test -s /bin/bash
+   48  sudo passwd user1
+   49  su root
+   50  su wyz
+   51  su root
+   52  su -root
+   53  su root
+   54  sudo password root
+   55  sudo passwd root
+   56  su root
+   57  sudu
+   58  su root
+   59  23456
+   60  exit
+   61  cd ~
+   62  cd /home
+   63  ls
+   64  touch test.txt
+   65  cd ~
+   66  ls
+   67  ll
+   68  cd /
+   69  ll
+   70  cd ~
+   71  touch test.txt
+   72  ls
+   73  echo hello
+   74  echo world > test.txt
+   75  vim test.txt
+   76  echo hello >test.txt
+   77  vim test
+   78  rm test
+   79  ls
+   80  vim test.txt
+   81  echo world >> test.txt
+   82  vim test.txt
+   83  cat test.txt 
+   84  rm test.txt 
+   85  ls
+   86  ls
+   87  ll
+   88  cd ..
+   89  pwd
+   90  su
+   91  su root
+   92  history
+   93  ls
+   94  mkdir tt
+   95  cd exercise/
+   96  ls
+   97  cd ..
+   98  touch test.txt
+   99  ls
+  100  mkdir -p t0/t1/t2
+  101  ls
+  102  cd t0
+  103  ls
+  104  cd ..
+  105  rm -r t0
+  106  ls
+  107  echo hello
+  108  echo hello > test.txt 
+  109  cat test.txt 
+  110  echo world >> test.txt 
+  111  cat test.txt 
+  112  vim test.txt 
+  113  more test.txt 
+  114  vim test.txt 
+  115  more test.txt 
+  116  head test.txt 
+  117  tail test.txt 
+  118  tar -cf t.tar ./test.txt 
+  119  ls
+  120  tar -czf t.tar ./test.txt 
+  121  ls
+  122  tar -cf t.tar ./test.txt 
+  123  tar -czf t.tar.gz ./test.txt 
+  124  ls
+  125  rm test.txt 
+  126  ls
+  127  tar -xf t.tar
+  128  ls
+  129  vim test.txt 
+  130  rm test.txt 
+  131  tar -xf t.tar.gz
+  132  ls
+  133  ll
+  134  more test.txt 
+  135  ls
+  136  rm t.tar
+  137  rm t.tar.gz 
+  138  ls
+  139  cd tt
+  140  ls
+  141  cd ..
+  142  cp test.txt ./tt
+  143  ls
+  144  cd ..
+  145  cd ~/tt/
+  146  ls
+  147  cd ..
+  148  ls
+  149  cd tt
+  150  ls
+  151  rm test.txt 
+  152  ls
+  153  cd ..
+  154* mv test.txt ./tt
+  155  ls
+  156  cd tt
+  157  ls
+  158  more test.txt 
+  159  fg
+  160  ls
+  161  cd ..
+  162  ls
+  163  cd tt
+  164  ls
+  165  vim test.txt 
+  166  history
+  167  cd ..
+  168  ls
+  169  cd exercise/
+  170  ls
+  171  more 20190102.txt 
+  172  ls
+  173  cp 20190102.txt ./20190102fuben.txt
+  174  ls
+  175  history >> 20190102fuben.txt 
+  176  ls
+  177  vim 20190102fuben.txt 
+  178  history >> 20190102.txt

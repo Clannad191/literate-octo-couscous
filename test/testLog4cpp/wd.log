@@ -1,0 +1,15 @@
+2019-01-13 18:25:30,917 myCat [FATAL] this is an emerg message
+2019-01-13 18:25:30,918 myCat [FATAL] this is a fatal message
+2019-01-13 18:25:30,918 myCat [ALERT] this is an alert message
+2019-01-13 18:25:30,918 myCat [ERROR] this is an info message
+2019-01-13 18:25:30,918 myCat [CRIT] this is a crit message
+2019-01-13 18:25:46,904 myCat [FATAL] this is an emerg message
+2019-01-13 18:25:46,905 myCat [FATAL] this is a fatal message
+2019-01-13 18:25:46,906 myCat [ALERT] this is an alert message
+2019-01-13 18:25:46,906 myCat [ERROR] this is an info message
+2019-01-13 18:25:46,906 myCat [CRIT] this is a crit message
+2019-01-13 18:25:51,541 myCat [FATAL] this is an emerg message
+2019-01-13 18:25:51,542 myCat [FATAL] this is a fatal message
+2019-01-13 18:25:51,542 myCat [ALERT] this is an alert message
+2019-01-13 18:25:51,542 myCat [ERROR] this is an info message
+2019-01-13 18:25:51,543 myCat [CRIT] this is a crit message
