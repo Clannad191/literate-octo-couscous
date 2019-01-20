@@ -67,16 +67,21 @@ public:
 	}
 
 private:
+	//想要只生成栈对象（不能生成堆对象，即不能new，所以把operator new/delete私有化）
+	void * operator new(size_t size);
+	void operator delete(void *);
+
+private:
 	char * _pstr;
 };//end of class String
 
 int main(void)
 {
 	String str1("123");
-	str1.print();//出现bug，cout << _pstr ，如果是空指针，会崩溃
+	str1.print();
 
-	String * str2 = new String("hello");
-	str2->print();
+	//String * str2 = new String("hello"); //error
+	//str2->print();
 
 	return 0;
 }
